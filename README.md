@@ -1,6 +1,6 @@
-# FDM_Vaccinations
+# CB_FDM_Vaccinations
 FDM template repo
 
-## Vaccinations Subset 
+## Connected Bradford Vaccinations Subset 
 Contains Vaccinations data from the Connected Bradford Primary Care dataset.
 
