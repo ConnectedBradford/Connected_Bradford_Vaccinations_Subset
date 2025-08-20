@@ -1,4 +1,6 @@
-# FDM_template
+# FDM_Vaccinations
 FDM template repo
 
-## Change the title of this README to match the name of the dataset and provide basic details about the data source and FDM contents.
+## Vaccinations Subset 
+Contains Vaccinations data from the Connected Bradford Primary Care dataset.
+
